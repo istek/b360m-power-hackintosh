@@ -9,3 +9,8 @@ my pc information:
 ### Graphics Card: Nvidia Geforce GTX 1060 5G
 ### Sound Card: Realtek ALC887 8 Channels 
 ### Ethernet: Realtek 8168/8111/8112 Gigabyte Ethernet Controller
+
+
+because of Nvidia WebDriver, you can install macOS 10.13 only. 
+
+and most of important, install or update system please be offline. 
